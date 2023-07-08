@@ -46,7 +46,11 @@ h1{
     font-size:6rem;
     letter-spacing:4px;
     color:white;
-    text-shadow:0 0 10px rgba(0,0,0,0.5)
+    text-shadow:0 0 10px rgba(0,0,0,0.5);
+    font-family: 'Cinzel', serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Ysabeau Infant', sans-serif;
 }
 
 section{
@@ -57,12 +61,19 @@ section{
 #sec-heading{
     font-size:5rem;
     padding:0 10rem;
+    font-family: 'Cinzel', serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Ysabeau Infant', sans-serif;
 }
 
 .text{
     font-size:1.5rem;
     padding: 0 10rem;
     margin:5rem 0;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Ysabeau Infant', sans-serif;
 }
 
 .bg{
@@ -84,6 +95,10 @@ section{
      color:black;
      font-size:3.5rem;
      font-weight:600;
+     font-family: 'Cinzel', serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Ysabeau Infant', sans-serif;
 }
 
 .bg1{
